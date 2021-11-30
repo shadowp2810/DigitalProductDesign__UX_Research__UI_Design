@@ -2,10 +2,10 @@
 
 ### Digital Product Design - UX Research and UI Design
 
-Below are my notes from the course.
-Putting this up here for my personal reference.
+Below are my notes from the course. <br>
+Putting this up here for my personal reference. <br>
 
-## <pre>
+<pre>  
 
 Section 1 Introduction:
 
