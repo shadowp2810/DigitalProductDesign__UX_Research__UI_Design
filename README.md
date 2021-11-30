@@ -1,8 +1,11 @@
-# DigitalProductDesign__UX_Research__UI_Design
+# DigitalProductDesign**UX_Research**UI_Design
 
-### Master Digital Product Design: UX Research & UI Design
-<pre>
----
+### Digital Product Design - UX Research and UI Design
+
+Below are my notes from the course.
+Putting this up here for my personal reference.
+
+## <pre>
 
 Section 1 Introduction:
 
